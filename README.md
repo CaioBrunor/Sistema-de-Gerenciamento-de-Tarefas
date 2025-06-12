@@ -91,4 +91,4 @@ System.out.println("8️⃣ - 🚪 Sair do Sistema");
 ---
 ## 🙏 Agradecimentos
 
-***Muito obrigado por se interessar no meu sistema de ouvidoria, busco cada vez mais melhorar e aprender mais na área de programação, esse foi meu primeiro projeto e vou buscar cada vez mais aprender para futuramente entrar num emprego na área de programação, pois esse sempre foi meu sonho desde pequeno, agradeço pelo reconhecimento!!***
+***Muito obrigado por se interessar no meu sistema de gerenciamento de tarefas, busco cada vez mais melhorar e aprender mais na área de programação, esse foi meu primeiro projeto e vou buscar cada vez mais aprender para futuramente entrar num emprego na área de programação, pois esse sempre foi meu sonho desde pequeno, agradeço pelo reconhecimento!!***
